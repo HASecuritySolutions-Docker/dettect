@@ -1,3 +1,3 @@
-FROM rabobankcdc/dettect:v1.4.0
+FROM rabobankcdc/dettect:v1.4.2
 
 MAINTAINER Justin Henderson justin@hasecuritysolutions.com
